@@ -92,25 +92,10 @@
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamabd55&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamabd55&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="top languages" />
-</div>
-
----
-
 ### Contact
 
 <div align="left">
   <a href="https://www.linkedin.com/in/iamabd55/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/iamabd55/count.svg" alt="profile views" />
 </div>
